@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>MyAndroidTest</name>
+	<name>TestingMyAndroidApp</name>
 	<comment></comment>
 	<projects>
 		<project>TestApp</project>
