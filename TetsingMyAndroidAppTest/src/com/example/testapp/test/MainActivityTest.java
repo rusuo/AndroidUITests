@@ -46,11 +46,4 @@ public class MainActivityTest extends ActivityInstrumentationTestCase2<MainActiv
 	    assertEquals("The displayed text is not correct", textToEnter,textView.getText().toString());
 	    
 	}
-
-	
-	@Override
-	public void tearDown(){
-		
-	}
-
 }
